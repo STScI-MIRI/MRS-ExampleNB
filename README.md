@@ -1,8 +1,8 @@
 # MRS-ExampleNB
 Example notebooks for processing MRS data with the JWST pipeline
 
-Notebook #1: 
-A version of this notebook was included in the JWebbinar Series (JWebbinar 4: Intro to JWST Spectrocopic Mode)
+Notebook #1: [br]
+A version of this notebook was included in the JWebbinar Series (JWebbinar 4: Intro to JWST Spectrocopic Mode) [br]
 Example data:
 
 Notebook #2:
