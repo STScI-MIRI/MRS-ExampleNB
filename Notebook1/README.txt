@@ -4,7 +4,7 @@ Data Level: Lvl1b, 2a, 2b, 3
 Owner/Contact: David Law
 Source of Simulations (Version): mirisim 2.4.0
 Pipeline Used: v1.1.0 with CRDS context jwst_0719.pmap
-Data Location: https://stsci.app.box.com/folder/137991890394
+Data Location: https://stsci.box.com/s/ejgvgnycjm43f62i98gbymmfu2lknhyf
 
 Target Description: Mock point source with a realistic science spectrum, 4-pt POINT SOURCE dither, and sky/telescope background
 
