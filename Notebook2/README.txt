@@ -3,7 +3,7 @@ Mode(s): MRS
 Data Level: Lvl1b, 2a, 2b, 3
 Source of Simulations (Version): mirisim 2.4.0
 Pipeline Used: v1.2.0 with CRDS context jwst_0723.pmap
-Data Location: https://stsci.app.box.com/folder/138076700023
+Data Location: https://stsci.box.com/s/kdzsylowpp5q6herx4hc23noc9z71z0f
 
 Target Description: Mock point source with a realistic science spectrum, 4-pt POINT SOURCE dither, and sky/telescope background
 Detector Configuration:
