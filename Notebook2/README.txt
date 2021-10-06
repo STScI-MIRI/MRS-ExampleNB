@@ -2,7 +2,7 @@ Instrument: MIRI
 Mode(s): MRS
 Data Level: Lvl1b, 2a, 2b, 3
 Source of Simulations (Version): mirisim 2.4.0
-Pipeline Used: v1.2.0 with CRDS context jwst_0723.pmap
+Pipeline Used: v1.3.2
 Data Location: https://stsci.box.com/s/kdzsylowpp5q6herx4hc23noc9z71z0f
 
 Target Description: Mock point source with a realistic science spectrum, 4-pt POINT SOURCE dither, and sky/telescope background
@@ -27,7 +27,6 @@ mirisim has multiple known issues that impact data quality and require either ca
 (8) mirisim does not add all of the necessary header keywords for the pipeline to know how to do background subtraction, identify source type, etc. In order to get these APT-derived keywords correct they will need to be set manually.
 The pipeline has a few issues than can impact data quality without workarounds.  These include:
 (1) Straylight step is designed for flight data and does not interact well with mirisim data.  Since simulated data have no straylight, this step should be skipped.
-(2) Reference files should use CRDS context jwst_0719.pmap or later.
 
 List of Data Files: Many, in stage0/, stage1/, stage2/, stage3/ subdirectories
 

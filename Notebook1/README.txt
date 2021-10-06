@@ -3,7 +3,7 @@ Mode(s): MRS
 Data Level: Lvl1b, 2a, 2b, 3
 Owner/Contact: David Law
 Source of Simulations (Version): mirisim 2.4.0
-Pipeline Used: v1.1.0 with CRDS context jwst_0719.pmap
+Pipeline Used: v1.3.2
 Data Location: https://stsci.box.com/s/ejgvgnycjm43f62i98gbymmfu2lknhyf
 
 Target Description: Mock point source with a realistic science spectrum, 4-pt POINT SOURCE dither, and sky/telescope background
@@ -42,8 +42,6 @@ mirisim has multiple known issues that impact data quality and require either ca
 The pipeline has a few issues than can impact data quality without workarounds.  These include:
 
 (1) Straylight step is designed for flight data and does not interact well with mirisim data.  Since simulated data have no straylight, this step should be skipped.
-
-(2) Reference files should use CRDS context jwst_0719.pmap or later.
 
 List of Data Files: Many, in stage0/, stage1/, stage2/, stage3/ subdirectories
 
