@@ -9,4 +9,5 @@ Notebook #2: Multiband and Parallel Processing Demo (Point Sources)
 * 4-pt dithered point sources observations, all MRS bands (1A-4C)
 * A version of this notebook is included in the JWebbinar Series (JWebbinar 5: Intro to JWST IFU Mode)
 
-Notebook #3: 
+Notebook #3: Extended Source Demo
+* 4-pt dithered extended-source observations plus dedicated background, SHORT grating setting (Ch1A, Ch2A, Ch3A, Ch4A)
