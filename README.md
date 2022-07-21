@@ -11,7 +11,7 @@ Flight Notebook #1: Batch processing for a typical MRS scene
 
 Flight Residual Fringe: Residual Fringe correction
 * Residual Fringe correction has to be done outside the current pipeline; this notebook gives a demonstration of its use
-# Later spec3 runs will need to be modified to read results from this output instead of the usual files
+* Later spec3 runs will need to be modified to read results from this output instead of the usual files
 
 Ground Notebooks:
 
