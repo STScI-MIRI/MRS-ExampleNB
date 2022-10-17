@@ -4,14 +4,14 @@ Example notebooks for processing MRS data with the JWST pipeline.  This includes
 Flight Notebooks:
 
 Flight Notebook #1: Batch processing for a typical MRS scene
+* Requires pipeline version 1.8.0+
 * Based on MRS ERO observations in Stephan's Quintet (APT 2732)
 * 4-pt dithered MRS data with dedicated background
 * 3 grating settings for full wavelength coverage
 * Processes through Detector1, Spec2, and Spec3
 
-Flight Residual Fringe: Residual Fringe correction
-* Residual Fringe correction has to be done outside the current pipeline; this notebook gives a demonstration of its use
-* Later spec3 runs will need to be modified to read results from this output instead of the usual files
+A previous Flight Residual Fringe notebook has been removed now that the residual fringe correction step
+has been included in the main jwst pipeline as of version 1.8.0.
 
 Ground Notebooks:
 
